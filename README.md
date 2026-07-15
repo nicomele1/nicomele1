@@ -1,8 +1,8 @@
-Hi, I'm Nicolás Meléndez, a mathematics student at Universidad de los Andes in Bogotá.
+Hi, I'm Nicolás Meléndez, a mathematician at Universidad de los Andes in Bogotá.
 
-My main mathematical interest is spectral theory. I'm currently studying Sturm-Liouville operators and working on a formal verification of the spectral theorem in Lean 4.
+My main mathematical interest is spectral theory of (un)bounded operators. I'm currently studying Sturm-Liouville operators and working on a formal verification of the spectral theorem in Lean 4.
 
-I also spend a lot of time with the mathematical and computational foundations of machine learning, with a particular focus on large language models. My interests include stochastic optimization, transformer architectures, and implementing small-scale models from scratch.
+I also spend a lot of time with the mathematical foundations of machine learning, with a particular focus on large language models. My interests include stochastic optimization, reinforcement learning, and transformer-like architectures.
 
 On the technical side, I work with Python for scientific computing and machine learning, especially NumPy, SciPy, PyTorch, and scikit-learn. I also use R, SQL, and some Rust. I enjoy Linux, Bash, and anything close to the system.
 
